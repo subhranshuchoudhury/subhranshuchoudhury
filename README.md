@@ -1,3 +1,3 @@
 <center>
-<p> Welcome Coder! </p>
+<p align="center"> Welcome Coder! </p>
 </center>
