@@ -1,5 +1,1 @@
-<style>
-p{align="center"}
-</style>
-<p> Welcome Coder! </p>
-
+<p align="center" style="font-size: 35px;"> Welcome Coder! </p>
