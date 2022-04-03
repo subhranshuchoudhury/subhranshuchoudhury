@@ -1,4 +1,4 @@
-<p align="center">0110100001101001</p>
+<p align="center">0100100001101001</p>
 <br>
 <p align="center"><img width="47%" src="https://github-readme-stats.vercel.app/api?username=subhranshuchoudhury&show_icons=true&theme=radical"><br><img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranshuchoudhury&layout=compact"></p>
 
