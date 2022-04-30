@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Frontend & Backend.
 - 🔍 I’m looking to participate in a hackathon and contribute to open source projects.
-- 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=918249587552&text=Hi%20Subhranshu!%20I%20am%20from%20Github%20Profile.)
+- 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=918249587552&text=Hi%20Subhranshu!%20I%20am%20from%20Github%20Profile.) [Email](mailto:subhransuchoudhury00@gmail.com)
 
 <hr />
 
