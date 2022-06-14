@@ -22,8 +22,10 @@
 <img align="left" alt="NodeJS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
 <img align="left" alt="MongoDB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
 <img align="left" alt="Express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
-<img align="left" alt="Express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
 <img align="left" alt="C-lang" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
+<img align="left" alt="npm" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+<img align="left" alt="bash" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+<img align="left" alt="heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg">
 
 
 
