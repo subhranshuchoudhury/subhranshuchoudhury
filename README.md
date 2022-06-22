@@ -9,7 +9,7 @@
 ![subhranshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhranshuchoudhury&show_icons=true&theme=radical)
 ---
 ### Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhranshuchoudhury&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhranshuchoudhury&langs_count=10&layout=compact)
 ---
 ### Technologies:
 <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
