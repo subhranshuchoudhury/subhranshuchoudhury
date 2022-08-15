@@ -32,10 +32,11 @@
 __________
 ### CodeEditors:
 <img align="left" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+_________
 ### OS:
 <img align="left" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img align="left" alt="windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"><br>
----
-[Twitter]: https://twitter.com/subhransureal
-[Profile]: https://www.peerlist.io/subhranshu
-[Gmail]: mailto:subhransuchoudhury00@gmail.com
+<img align="left" alt="windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+__________
+[Twitter]:https://twitter.com/subhransureal
+[Profile]:https://www.peerlist.io/subhranshu
+[Gmail]:mailto:subhransuchoudhury00@gmail.com
