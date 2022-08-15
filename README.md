@@ -33,6 +33,6 @@
 
 
 
-[Twitter]:(https://twitter.com/subhransureal)
-[Profile]:(https://www.peerlist.io/subhranshu)
-[Gmail]:(mailto:subhransuchoudhury00@gmail.com)
+[Twitter](https://twitter.com/subhransureal)
+[Profile](https://www.peerlist.io/subhranshu)
+[Gmail](mailto:subhransuchoudhury00@gmail.com)
