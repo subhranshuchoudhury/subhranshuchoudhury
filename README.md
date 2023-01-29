@@ -5,6 +5,10 @@
 - 🔍 I’m looking to participate in a hackathon and contribute to open source projects.
 - 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=918249587552&text=Hi%20Subhranshu!%20I%20am%20from%20Github%20Profile.) [Email](mailto:subhransuchoudhury00@gmail.com)
 
+### Visitors count: <p align="center">
+  <img src="https://profile-counter.glitch.me/subhranshuchoudhury/count.svg" />
+</p>
+
 ### Stats:
 ![subhranshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhranshuchoudhury&show_icons=true&theme=radical)
 ---
@@ -29,10 +33,3 @@
 <img align="left" alt="ejs" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png">
 <img align="left" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="left" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></img>
-<br>
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/subhranshuchoudhury/count.svg" />
-</p>
-  
-
