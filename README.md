@@ -1,38 +1,29 @@
-## Hello, World! 👋 I'm Subhranshu.
+# Hello, World! 👋 I'm Subhranshu Choudhury.
+
+## 💫 About Me:
+🔭 I’m currently working on Attendee project<br>👯 I’m looking to collaborate on MERN, Native projects<br>🤝 I’m looking for help with ...<br>🌱 I’m currently learning "Flutter","Supabase"<br>💬 Ask me about MERN, React Native, Ethical Hacking<br>⚡ All we are just started from "Hello World".
 
 
-- 🌱 All we are started from print "Hello World".
-- 🔍 I’m looking to participate in a hackathon and contribute to open source projects.
-- 🚧 Solve error to create a unseen error.
-- 📫 How to reach me: [Whatsapp](https://api.whatsapp.com/send?phone=918249587552&text=Hi%20Subhranshu!%20I%20am%20from%20Github%20Profile.) [Email](mailto:subhransuchoudhury00@gmail.com) [LinkedIn](https://www.linkedin.com/in/subhranshusekharchoudhury/)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhranshusekharchoudhury) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Subhransu-Sekhar-Choudhury-1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/subhransuReal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SubhranshuChoudhury) 
 
-[![An image of @subhranshuchoudhury's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhranshuchoudhury)](https://holopin.io/@subhranshuchoudhury)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=subhranshuchoudhury&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=subhranshuchoudhury&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhranshuchoudhury&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Visitors count: <p align="center">
-  <img src="https://profile-counter.glitch.me/subhranshuchoudhury/count.svg" />
-</p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=subhransuReal)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### Stats:
-![subhranshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhranshuchoudhury&show_icons=true&theme=radical)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=subhranshuchoudhury&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
-### Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhranshuchoudhury&langs_count=10&layout=compact)
----
-### Technologies:
-<img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img align="left" alt="JQuery" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-<img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-<img align="left" alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-<img align="left" alt="NodeJS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-<img align="left" alt="MongoDB" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
-<img align="left" alt="Express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
-<img align="left" alt="C-lang" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-<img align="left" alt="npm" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-<img align="left" alt="bash" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
-<img align="left" alt="heroku" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg">
-<img align="left" alt="react" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="left" alt="ejs" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png">
-<img align="left" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="left" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></img>
+[![](https://visitcount.itsvg.in/api?id=subhranshuchoudhury&icon=7&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
