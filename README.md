@@ -1,7 +1,7 @@
 # Hello, World! 👋 I'm Subhranshu Choudhury.
 
 ## 💫 About Me:
-🔭 I’m currently working on Attendee project<br>👯 I’m looking to collaborate on MERN, Native projects<br>🤝 I’m looking for help with ...<br>🌱 I’m currently learning "Flutter","Supabase"<br>💬 Ask me about MERN, React Native, Ethical Hacking<br>⚡ All we are just started from "Hello World".
+🔭 I’m currently working on School BUS Management project<br>👯 I’m looking to collaborate on MERN, Native projects<br>🤝 I’m looking for help with ...<br>🌱 I’m currently learning "Flutter","Supabase"<br>💬 Ask me about MERN, React Native, Ethical Hacking<br>⚡ All we are just started from "Hello World".
 
 [![An image of @subhranshuchoudhury's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhranshuchoudhury)](https://holopin.io/@subhranshuchoudhury)
 
