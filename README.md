@@ -15,7 +15,7 @@
 # 🐙 OctoHub
 
 <a href="https://octohub-cdh.vercel.app">
-	<img width="350" src="https://ecertificates.onrender.com/participant/Subhranshu%20Choudhury" alt="OctoHub 2023" />
+	<img width="350" src="https://ecertificates.onrender.com/badge/organizer/2023OCT05001" alt="OctoHub 2023" />
 </a>
 
 # 🎴 Appwrite Card:
