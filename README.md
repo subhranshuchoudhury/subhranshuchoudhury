@@ -15,7 +15,7 @@
 # 🐙 OctoHub
 
 <a href="https://discord.gg/qg8N7dq7tZ">
-	<img width="350" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/subhransuchoudhury00@gmail.com/level/1" alt="OctoHub 2023" />
+	<img width="350" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/subhransuchoudhury00@gmail.com/level/4" alt="OctoHub 2023" />
 </a>
 
 # 🎴 Appwrite Card:
