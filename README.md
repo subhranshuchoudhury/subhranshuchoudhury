@@ -16,8 +16,8 @@
 
 <a href="https://discord.gg/qg8N7dq7tZ">
 	<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/subhransuchoudhury00@gmail.com/level/0" alt="OctoHub 2023" />
-	<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/subhransuchoudhury00@gmail.com/level/1" alt="OctoHub 2023" />
 	<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/subhransuchoudhury00@gmail.com/level/2" alt="OctoHub 2023" />
+	<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/subhransuchoudhury00@gmail.com/level/1" alt="OctoHub 2023" />
 	<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/subhransuchoudhury00@gmail.com/level/3" alt="OctoHub 2023" />
 	<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/subhransuchoudhury00@gmail.com/level/4" alt="OctoHub 2023" />
 </a>
